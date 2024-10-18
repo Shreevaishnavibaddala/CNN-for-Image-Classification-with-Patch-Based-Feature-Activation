@@ -82,7 +82,7 @@ The project explores the design and implementation of convolutional neural netwo
 ## Dependencies
 
 - Python 3.x
-- TensorFlow or PyTorch
+- PyTorch
 - NumPy
 - Matplotlib (for visualization)
 - PIL (for image preprocessing)
